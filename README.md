@@ -1,14 +1,14 @@
-<img src="https://github-readme-stats.vercel.app/api?username=anthonyharold67&show_icons=true&theme=tokyonight" align='right' width="55%">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmetsuat67&show_icons=true&theme=tokyonight" align='right' width="55%">
 
-# Hi there 👋 Anthony here! Loves developing..
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonyharold67" alt="anthonyharold67" /> </p>
+# Hi there 👋 Ahmet here! Loves developing..
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetsuat67" alt="ahmetsuat67" /> </p>
 📩 Connect with me:
 <br>
-<a href="https://www.linkedin.com/in/anthony-harold-73b78b223/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/">
+<a href="https://www.linkedin.com/in/ahmet-suat-pinar/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/ahmet-suat-pinar/">
 </a>
-<a href="mailto:anthonyharold67@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:anthonyharold67@gmail.com">
+<a href="mailto:ahmetsuatpinar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="ahmetsuatpinar@gmail.com">
 </a>
 <a>
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" align='left' width="20%" alt="react">

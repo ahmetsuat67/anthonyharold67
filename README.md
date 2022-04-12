@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ahmetsuat67&show_icons=true&theme=tokyonight" align='right' width="55%">
 
-# Hi there 👋 Ahmet here! Loves developing..
+# Hi there 👋 Ahmet Suat here! Loves developing..
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetsuat67" alt="ahmetsuat67" /> </p>
 📩 Connect with me:
 <br>
@@ -42,7 +42,7 @@
 [react]: https://tr.reactjs.org/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[github]: https://github.com/enes9103
+[github]: https://github.com/ahmetsuat67
 [python]: https://www.python.org/
 [js]: https://www.javascript.com/
 [linux]: https://www.linux.org/
@@ -55,9 +55,9 @@
 - 📫 How to reach me:
 
 --> 
-<a href="www.linkedin.com/in/anthony-harold-73b78b223" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/">
+<a href="https:www.linkedin.com/in/ahmet-suat-pinar/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https:https://www.linkedin.com/in/ahmet-suat-pinar/">
 </a>
-<a href="mailto:anthonyharold67" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:anthonyharold67@gmail.com">
+<a href="mailto:ahmetsuatpinar" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:ahmetsuatpinar@gmail.com">
 </a>
